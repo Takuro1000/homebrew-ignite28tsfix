@@ -1,8 +1,8 @@
 class Ignite < Formula
   desc "Takuro1000 ignite ts test"
   homepage "https://github.com/Takuro1000/ignite28tsfix"
-  url "https://github.com/Takuro1000/ignite28tsfix/archive/refs/tags/28ts1.tar.gz" # 最新のバージョンを指定
-  sha256 "65bcfd8c22c5822ef5cd9930a7ff4a7a02b104f1982d498f079fb515b3e295f2" # 正しいSHA256ハッシュを指定
+  url "https://github.com/Takuro1000/ignite28tsfix/archive/refs/tags/v0.27.2.tar.gz" # 最新のバージョンを指定
+  sha256 "5b8807d37740fc696a5b60a05f680f889172f8143344a22a0becf587d1cc2779" # 正しいSHA256ハッシュを指定
 
   depends_on "go"   # Goの依存関係
   depends_on "node" # Node.jsの依存関係
