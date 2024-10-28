@@ -1,4 +1,5 @@
 class Ignite < Formula
+  version "28.15.3" # バージョンを指定
   desc "Takuro1000 ignite ts test"
   homepage "https://github.com/Takuro1000/ignite28tsfix"
   url "https://github.com/Takuro1000/ignite28tsfix/archive/refs/tags/julienTS.tar.gz" # 最新のバージョンを指定
